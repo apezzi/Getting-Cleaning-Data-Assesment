@@ -32,7 +32,7 @@ SCRIPT PROCESS run_analysis.R
 
     -filter the dataset with only std and mean deviation
 
-    -save the filtered data frame to a csv file (data.csv)
+    -save the filtered data frame to a text file (data.txt)
 
     Part 2: create dataset 2 (Step 5)
 
@@ -42,7 +42,7 @@ SCRIPT PROCESS run_analysis.R
     
     -over the new grouped data frame use summarize_each with the mean funs (averages for each subject and activity)
 
-    -save data set to a csv file (group_data.csv)
+    -save data set to a text file (group_data.txt)
 
 
 
